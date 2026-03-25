@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "op07 new")(type "KiCad")(uri "${KIPRJMOD}/op07 new.kicad_sym")(options "")(descr ""))
+  (lib (name "bus stecker")(type "KiCad")(uri "${KIPRJMOD}/bus stecker.kicad_sym")(options "")(descr ""))
+)

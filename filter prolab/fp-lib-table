@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "prolab EDGE CUTS")(type "KiCad")(uri "${KIPRJMOD}/prolab EDGE CUTS.pretty")(options "")(descr ""))
+)
